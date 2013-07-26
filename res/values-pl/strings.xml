@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MPlayer</string>
+    <string name="action_settings">Equalizer</string>
+    <string name="albums">Albumy</string>
+    <string name="allsongs">Wszystkie utwory</string>
+    <string name="endplaylist">Koniec playlisty!</string>
+
+</resources>
